@@ -47,6 +47,8 @@ package notices and font/icon licenses are retained with their assets. Audio
 generators live in `Assets/Build`; set `CLAD_SKILLS_DIR` to the installed CLAD
 skills directory before running them with Node. No runtime AI service is used.
 
-Git LFS is used for binary assets. Install Git LFS and run `git lfs pull` after
-cloning a future public repository. Local signing keys, account answers, cache,
-machine state and video files are excluded from Git.
+The public repository stores assets directly in Git (about 22 MB total), so a normal
+clone includes the required binaries. Local signing keys, account answers,
+cache, machine state and video files are excluded from Git.
+
+Public demo: [Watch Orbit Lab on YouTube](https://www.youtube.com/watch?v=7s5lA8JthsY).
