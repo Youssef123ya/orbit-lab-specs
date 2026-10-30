@@ -98,8 +98,10 @@ Local fallback: Assets/Build/QA/orbit-lab-demo.mp4 (121.198 seconds).
 
 https://github.com/Youssef123ya/orbit-lab-specs
 
-Public repository created; project transfer is in progress. Binaries are stored
-directly in Git. Publication details are in devpost/publication-kit.md.
+Public repository contains the Lens project and planning documents. An anonymous
+clone verified all 1,112 files against the prepared source, with no private
+files included. Binaries are stored directly in Git. Publication details are
+in devpost/publication-kit.md.
 
 ## Demo Video
 
@@ -134,7 +136,7 @@ Local implementation, screenshots, test evidence, video and draft exist. Officia
 requirements were retrieved through Devpost MCP on 2026-10-30: new SPECS Lens,
 Devpost Learn planning docs, build through an AI coding agent using CLAD/MCP,
 working Preview, public repository, public YouTube video under 3 minutes and short
-description. Public links now exist. Repository transfer and final review of assistant-selected reflection ratings are pending.
+description. Public links now exist. Repository transfer and anonymous-clone verification passed. Final review of assistant-selected reflection ratings remains.
 Nothing has been sent to Devpost. Recheck official requirements during final review.
 
 ## Known Limitations

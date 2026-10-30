@@ -34,8 +34,9 @@ review and explicit confirmation under submit-project.
   do not ask the same seven questions again.
 - Public video is live: https://www.youtube.com/watch?v=7s5lA8JthsY (2:01).
 - Public repository exists: https://github.com/Youssef123ya/orbit-lab-specs.
-  Project transfer is being completed through GitHub MCP because Git Credential
-  Manager has no active sign-in. Do not request new credentials unnecessarily.
+  Project files were published through GitHub MCP because Git Credential
+  Manager had no active sign-in. Anonymous clone verified all 1,112 files
+  byte-for-byte against the prepared source; no private files were included.
 - Binary assets are stored directly in Git, not LFS, for a self-contained clone.
 
 ## Tools and packages
@@ -55,14 +56,17 @@ and bootstrap for QA. See verification.md.
 
 ## Remaining work
 
-1. Finish and verify project transfer to the public repository; then verify a
-   fresh clone contains the manifest, planning docs, source and binary assets.
-2. Preserve ignores for signing keys, private answers and machine state. Repeat
-   the public-file secret check if the file set changes.
-3. Refresh official requirements at final review. Use submit-project and obtain
-   its final confirmation. Include the assistant-selected reflection ratings in
-   that review so they are not mistaken for personal statements from the user.
-4. No Devpost project or entry has been created or sent.
+1. Run the final Devpost review with submit-project. Public repo and video are
+   now available and verified. Do not ask again for the seven reflection answers;
+   the participant delegated their drafting.
+2. Show the assistant-selected personal ratings during final review: future use
+   Likely; skills Somewhat; changed AR view Somewhat. They are draft assumptions,
+   not independently known participant experiences. Other feedback follows the
+   observed build history and is saved privately with provenance.
+3. Obtain the submit-project skill's explicit final confirmation. The user has
+   authorized publication of the repo/video, but no Devpost entry has been sent.
+4. Preserve ignores for signing keys, private answers, machine state and video.
 
 Preview logic is proven; device comfort, tracking and performance are untested.
-The user authorized public repository/video publication, not final Devpost entry.
+Public repository: https://github.com/Youssef123ya/orbit-lab-specs
+Public video: https://www.youtube.com/watch?v=7s5lA8JthsY

@@ -17,15 +17,12 @@ The public repository stores binary assets directly in Git. Do not upload the en
 through a browser: ignored keys, personal answers and generated state must stay
 local. The captioned video is published separately on YouTube.
 
-Available routes:
-
-- GitHub CLI: create the repository, then push using Git.
-- GitHub connector: use it for supported repository operations.
-- GitHub website: create the repository, then use plain Git to push.
-
-The current GitHub connector has no repository-creation tool, and `gh` was not
-found on PATH during preparation. Website creation plus Git is an available
-fallback once publication is requested. Codex can help with the chosen route.
+Publication used the signed-in GitHub website to create the public repository,
+then the connected GitHub MCP app to upload files and create commits. Git's
+Credential Manager had no active sign-in, so no new Git credential was requested.
+An anonymous clone verified all 1,112 files against the prepared source. The
+font was 342,408 bytes and music 6,889,208 bytes; manifest and design brief existed.
+No signing key, private answers, local MP4 or plugin settings were included.
 
 ## YouTube
 
@@ -54,12 +51,12 @@ Description draft:
 >
 > Built for Learn AR with SPECS.
 >
-> Project repository: REPLACE_WITH_PUBLIC_REPOSITORY_URL
+> Project repository: https://github.com/Youssef123ya/orbit-lab-specs
 
 Optional thumbnail: `Assets/Build/QA/solar.jpg`.
 
-Use Public visibility for the final event demo. Replace the repository
-placeholder before publishing the description. The participant must answer
+The demo was published with Public visibility. The repository link is in its
+description. The public watch page shows the correct title and 2:01 duration. The participant must answer
 any channel-specific audience or account questions themselves where required.
 
 ## Public-file audit
