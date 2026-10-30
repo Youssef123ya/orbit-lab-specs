@@ -1,6 +1,9 @@
 # Orbit Lab publication kit
 
-Prepared locally on 2026-10-30. The repository was created and the demo was published at the participant's request. No Devpost entry has been sent.
+Prepared locally on 2026-10-30. The repository and demo were published at the
+participant's request. The Devpost entry was subsequently sent after explicit
+confirmation and verified live. See submission-result.md for the receipt and
+public project URL.
 
 ## Repository
 

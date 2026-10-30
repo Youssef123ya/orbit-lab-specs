@@ -1,3 +1,8 @@
+> Submitted to Learn AR with SPECS on 2026-10-30 after explicit confirmation,
+> verified live: https://devpost.com/software/orbit-lab-3m8d6z
+> The solar-alignment image is the project thumbnail. This file retains the
+> prepared packet; the published page is the current entry.
+
 # Title
 
 Orbit Lab
@@ -136,8 +141,8 @@ Local implementation, screenshots, test evidence, video and draft exist. Officia
 requirements were retrieved through Devpost MCP on 2026-10-30: new SPECS Lens,
 Devpost Learn planning docs, build through an AI coding agent using CLAD/MCP,
 working Preview, public repository, public YouTube video under 3 minutes and short
-description. Public links now exist. Repository transfer and anonymous-clone verification passed. Final review of assistant-selected reflection ratings remains.
-Nothing has been sent to Devpost. Recheck official requirements during final review.
+description. Public links now exist. Repository transfer and anonymous-clone verification passed. The participant explicitly approved the assistant-selected reflection ratings.
+The entry was sent after explicit confirmation and verified live. Recheck requirements before any later material edit.
 
 ## Known Limitations
 
@@ -149,14 +154,14 @@ pinch routing, not physical direct reach. There is no save or multiplayer featur
 
 ## TODO Official Form Fields
 
-Live form IDs below are for preparation; no form has been sent. Existing personal
+The form below was accepted with the entry after explicit confirmation. Existing personal
 answers stay only in ignored local state and must not be copied into a public repo.
 Already saved:29102(submitter type),29103(country),29106/29107/29108(eligibility),
 29100(prior Lens Studio experience),29095(AI cost effect). Reuse these privately;
 do not ask the participant for them again unless official data changes.
 
 The factual technology explanation for 29092 is also saved locally for later
-form entry. The participant delegated drafting the remaining reflections. Answers and their provenance are saved privately; assistant-selected personal ratings are assumptions pending the final entry review.
+form entry. The participant delegated drafting the remaining reflections. Answers and their provenance are saved privately; assistant-selected personal-rating assumptions were approved during the final review.
 
 - 29091: add the public repository URL.
 - 29092 technology requirement explanation draft: Orbit Lab was planned in the

@@ -1,5 +1,7 @@
 # Orbit Lab
 
+[Devpost project](https://devpost.com/software/orbit-lab-3m8d6z) · [Demo video](https://www.youtube.com/watch?v=7s5lA8JthsY)
+
 A spatial eclipse lesson for SPECS, built and verified in Lens Studio Preview.
 Move the Moon, follow its shadow, and solve three challenges: solar eclipse,
 lunar eclipse, and orbital tilt. Sizes, distances, tilt and tolerances are
